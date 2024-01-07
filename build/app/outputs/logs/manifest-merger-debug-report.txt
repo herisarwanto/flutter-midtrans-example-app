@@ -1,0 +1,762 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/main/AndroidManifest.xml:6:4-37:19
+MERGED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:20:5-197:19
+MERGED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:20:5-197:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/herisarwanto/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/herisarwanto/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [com.github.rambler-digital-solutions:swipe-layout-android:1.0.17] /Users/herisarwanto/.gradle/caches/transforms-3/ae5ecc6ee11c1cab59346fb11653c394/transformed/jetified-swipe-layout-android-1.0.17/AndroidManifest.xml:12:5-14:47
+MERGED from [com.github.rambler-digital-solutions:swipe-layout-android:1.0.17] /Users/herisarwanto/.gradle/caches/transforms-3/ae5ecc6ee11c1cab59346fb11653c394/transformed/jetified-swipe-layout-android-1.0.17/AndroidManifest.xml:12:5-14:47
+MERGED from [com.google.android.material:material:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/4107427a8bc3818a71bd94c66907d3a7/transformed/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/4107427a8bc3818a71bd94c66907d3a7/transformed/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.github.stfalcon-studio:SmsVerifyCatcher:0.3.3] /Users/herisarwanto/.gradle/caches/transforms-3/ea9db74d1382c84adb8d4b29ff1ba8d7/transformed/jetified-SmsVerifyCatcher-0.3.3/AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.stfalcon-studio:SmsVerifyCatcher:0.3.3] /Users/herisarwanto/.gradle/caches/transforms-3/ea9db74d1382c84adb8d4b29ff1ba8d7/transformed/jetified-SmsVerifyCatcher-0.3.3/AndroidManifest.xml:11:5-12:19
+MERGED from [com.midtrans:corekit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/b9d6eb856930d0b96e2147ef88a606b5/transformed/jetified-corekit-1.30.1-SANDBOX/AndroidManifest.xml:14:5-17:19
+MERGED from [com.midtrans:corekit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/b9d6eb856930d0b96e2147ef88a606b5/transformed/jetified-corekit-1.30.1-SANDBOX/AndroidManifest.xml:14:5-17:19
+MERGED from [com.midtrans:analytics:1.7.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/da9a56352b25130b81182bfe478a5f5b/transformed/jetified-analytics-1.7.1-SANDBOX/AndroidManifest.xml:15:5-19:19
+MERGED from [com.midtrans:analytics:1.7.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/da9a56352b25130b81182bfe478a5f5b/transformed/jetified-analytics-1.7.1-SANDBOX/AndroidManifest.xml:15:5-19:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:45:5-53:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:45:5-53:19
+MERGED from [com.koushikdutta.ion:ion:3.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/2a9f3d69c803dcc456e4d45d83f102fc/transformed/jetified-ion-3.1.0/AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.ion:ion:3.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/2a9f3d69c803dcc456e4d45d83f102fc/transformed/jetified-ion-3.1.0/AndroidManifest.xml:13:5-14:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/c8dcdcd915bff317c1516d06479658aa/transformed/jetified-play-services-auth-15.0.1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/c8dcdcd915bff317c1516d06479658aa/transformed/jetified-play-services-auth-15.0.1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/aa68769d5242c20041062ecc9e788594/transformed/jetified-play-services-base-15.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/aa68769d5242c20041062ecc9e788594/transformed/jetified-play-services-base-15.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/32da96ab7f28366f9849535eecee112e/transformed/jetified-play-services-tasks-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/32da96ab7f28366f9849535eecee112e/transformed/jetified-play-services-tasks-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/93ba26b96cfe274987ac5f373d2d66b4/transformed/jetified-play-services-basement-15.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/93ba26b96cfe274987ac5f373d2d66b4/transformed/jetified-play-services-basement-15.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.6.0] /Users/herisarwanto/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/herisarwanto/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/herisarwanto/.gradle/caches/transforms-3/5abdc06e026f2f7b9b89c25dcd7a6d7e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/herisarwanto/.gradle/caches/transforms-3/5abdc06e026f2f7b9b89c25dcd7a6d7e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.koushikdutta.async:androidasync:3.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/42b681f5d57577eb4d9e2049df509a2c/transformed/jetified-androidasync-3.1.0/AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.async:androidasync:3.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/42b681f5d57577eb4d9e2049df509a2c/transformed/jetified-androidasync-3.1.0/AndroidManifest.xml:13:5-14:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/herisarwanto/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [com.github.rambler-digital-solutions:swipe-layout-android:1.0.17] /Users/herisarwanto/.gradle/caches/transforms-3/ae5ecc6ee11c1cab59346fb11653c394/transformed/jetified-swipe-layout-android-1.0.17/AndroidManifest.xml:13:9-35
+		REJECTED from [com.midtrans:corekit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/b9d6eb856930d0b96e2147ef88a606b5/transformed/jetified-corekit-1.30.1-SANDBOX/AndroidManifest.xml:16:9-35
+		REJECTED from [com.midtrans:analytics:1.7.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/da9a56352b25130b81182bfe478a5f5b/transformed/jetified-analytics-1.7.1-SANDBOX/AndroidManifest.xml:18:9-35
+	android:allowBackup
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:21:9-36
+		REJECTED from [com.midtrans:corekit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/b9d6eb856930d0b96e2147ef88a606b5/transformed/jetified-corekit-1.30.1-SANDBOX/AndroidManifest.xml:15:9-36
+		REJECTED from [com.midtrans:analytics:1.7.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/da9a56352b25130b81182bfe478a5f5b/transformed/jetified-analytics-1.7.1-SANDBOX/AndroidManifest.xml:16:9-35
+	tools:replace
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:23:9-44
+	android:usesCleartextTraffic
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:22:9-45
+	android:name
+		INJECTED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/main/AndroidManifest.xml:1:1-38:12
+MERGED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/main/AndroidManifest.xml:1:1-38:12
+MERGED from [:midtrans_sdk] /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/build/midtrans_sdk/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:fluttertoast] /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/build/fluttertoast/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:2:1-199:12
+MERGED from [com.akexorcist:localization:1.2.10] /Users/herisarwanto/.gradle/caches/transforms-3/64b613e0df62e76f2757363c3276bf02/transformed/jetified-localization-1.2.10/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/herisarwanto/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/herisarwanto/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.activity:activity-ktx:1.2.2] /Users/herisarwanto/.gradle/caches/transforms-3/0fd9680c4b02ea7c636999ccd7779925/transformed/jetified-activity-ktx-1.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/herisarwanto/.gradle/caches/transforms-3/54c447246e1dfdd55ce046ad6c0e747a/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/herisarwanto/.gradle/caches/transforms-3/81241baf1724590ca8f723ee0686eeee/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/2adb8613a2763c41834310934f5f5283/transformed/jetified-core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/ed2c0e334ad33f0bd61711ae1ae5c864/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.rambler-digital-solutions:swipe-layout-android:1.0.17] /Users/herisarwanto/.gradle/caches/transforms-3/ae5ecc6ee11c1cab59346fb11653c394/transformed/jetified-swipe-layout-android-1.0.17/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/4107427a8bc3818a71bd94c66907d3a7/transformed/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.stfalcon-studio:SmsVerifyCatcher:0.3.3] /Users/herisarwanto/.gradle/caches/transforms-3/ea9db74d1382c84adb8d4b29ff1ba8d7/transformed/jetified-SmsVerifyCatcher-0.3.3/AndroidManifest.xml:2:1-14:12
+MERGED from [com.midtrans:corekit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/b9d6eb856930d0b96e2147ef88a606b5/transformed/jetified-corekit-1.30.1-SANDBOX/AndroidManifest.xml:2:1-19:12
+MERGED from [com.midtrans:analytics:1.7.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/da9a56352b25130b81182bfe478a5f5b/transformed/jetified-analytics-1.7.1-SANDBOX/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/herisarwanto/.gradle/caches/transforms-3/e937b68345cad7d61818d312b6b4c7ca/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:17:1-55:12
+MERGED from [com.koushikdutta.ion:ion:3.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/2a9f3d69c803dcc456e4d45d83f102fc/transformed/jetified-ion-3.1.0/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/c8dcdcd915bff317c1516d06479658aa/transformed/jetified-play-services-auth-15.0.1/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/ba0cbcfcb8502d56da5e2a9ebd4ea11e/transformed/jetified-play-services-auth-api-phone-15.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/0c9ef400d92a8699298b6535a660b6bf/transformed/jetified-play-services-auth-base-15.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/aa68769d5242c20041062ecc9e788594/transformed/jetified-play-services-base-15.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/32da96ab7f28366f9849535eecee112e/transformed/jetified-play-services-tasks-15.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/93ba26b96cfe274987ac5f373d2d66b4/transformed/jetified-play-services-basement-15.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/86a4def22459cc978552e378a210946f/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/9354257804af8250f2ffb7c22e2892d5/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/82b7a2b89a740946944868137cd3eaca/transformed/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/d96a4ec7573b0e4dad1ed46b8f79f81a/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/f156363817d5f71529d60b6716392550/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/f3339edcec1cc450497e3c3878a1dd85/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/cf24d35e50a727536c7357721dc007c5/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/herisarwanto/.gradle/caches/transforms-3/5ebaeb5d364ce2c623be4262cc3b2f87/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/dae15ab66459c7c814cfe9578e1706f3/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/f057e7418cf3ed9a7aa575bdc69ad668/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/bfc8f4aa92cad5562cb8f1e119c503a2/transformed/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/658c795313ef4882e96b91cbdc33f336/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/49141d5d7dd82f046f7046796052faa1/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/f4c2d181f9683c57f8970b9ce7785060/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/f562cbc756445f17cad7fd8f06b07dbc/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/3943378554826a83b044df13cc6da74b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/8f7c646a86cbd44aa9d36d74617587f4/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/46bd764129354855da9f10ec99ac6ddc/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.2] /Users/herisarwanto/.gradle/caches/transforms-3/34167a4684e35a1468bcac1bfa79cbfe/transformed/jetified-activity-1.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] /Users/herisarwanto/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/herisarwanto/.gradle/caches/transforms-3/76da31ad033c53187dd7271282d0f7d2/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/herisarwanto/.gradle/caches/transforms-3/a0d949cd6e8ccd90d0020a6be387db55/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/445f1a6c7ed90c8b1d8b0054874eb819/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/7f4e81502f72dd837dc1e0ddcbb11c26/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/herisarwanto/.gradle/caches/transforms-3/72f1f1fbbbcadf7a4d8c002a04918740/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/5b75d2e6479f13c5aed7d8001da507c0/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/1f7b83d5c525c90d815c2843766b14c4/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/herisarwanto/.gradle/caches/transforms-3/5abdc06e026f2f7b9b89c25dcd7a6d7e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/a5e62b79c1b370c2c963eefe3a076316/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/ff0a69a6d808ca01fb8a7748b87b9733/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/85267578750371d10730a0f08070bc44/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/0f69d47ade4236199adb81e111e4f92e/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/0ba9c48dd5ff84ca64a6f8c4dc29ae01/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/herisarwanto/.gradle/caches/transforms-3/114d02d556db7f0c7636ae1c78b77699/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/56ea02d67edbb15aea212f39ccb5db78/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [me.saket:better-link-movement-method:2.2.0] /Users/herisarwanto/.gradle/caches/transforms-3/bdd46394318e67bf66c612acf2c8566e/transformed/jetified-better-link-movement-method-2.2.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.midtrans:issuetracker:1.12.0-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/2367595826684570be803fd7a93e6b92/transformed/jetified-issuetracker-1.12.0-SANDBOX/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.koushikdutta.async:androidasync:3.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/42b681f5d57577eb4d9e2049df509a2c/transformed/jetified-androidasync-3.1.0/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+	package
+		ADDED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/main/AndroidManifest.xml:2:5-51
+		INJECTED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/main/AndroidManifest.xml:4:5-66
+MERGED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/main/AndroidManifest.xml:4:5-66
+MERGED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/main/AndroidManifest.xml:4:5-66
+MERGED from [com.midtrans:corekit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/b9d6eb856930d0b96e2147ef88a606b5/transformed/jetified-corekit-1.30.1-SANDBOX/AndroidManifest.xml:12:5-67
+MERGED from [com.midtrans:corekit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/b9d6eb856930d0b96e2147ef88a606b5/transformed/jetified-corekit-1.30.1-SANDBOX/AndroidManifest.xml:12:5-67
+MERGED from [com.midtrans:analytics:1.7.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/da9a56352b25130b81182bfe478a5f5b/transformed/jetified-analytics-1.7.1-SANDBOX/AndroidManifest.xml:12:5-67
+MERGED from [com.midtrans:analytics:1.7.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/da9a56352b25130b81182bfe478a5f5b/transformed/jetified-analytics-1.7.1-SANDBOX/AndroidManifest.xml:12:5-67
+MERGED from [com.koushikdutta.ion:ion:3.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/2a9f3d69c803dcc456e4d45d83f102fc/transformed/jetified-ion-3.1.0/AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.ion:ion:3.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/2a9f3d69c803dcc456e4d45d83f102fc/transformed/jetified-ion-3.1.0/AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:3.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/42b681f5d57577eb4d9e2049df509a2c/transformed/jetified-androidasync-3.1.0/AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:3.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/42b681f5d57577eb4d9e2049df509a2c/transformed/jetified-androidasync-3.1.0/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-sdk
+INJECTED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/main/AndroidManifest.xml
+MERGED from [:midtrans_sdk] /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/build/midtrans_sdk/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:midtrans_sdk] /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/build/midtrans_sdk/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:fluttertoast] /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/build/fluttertoast/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:fluttertoast] /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/build/fluttertoast/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:8:5-11:115
+MERGED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:8:5-11:115
+MERGED from [com.akexorcist:localization:1.2.10] /Users/herisarwanto/.gradle/caches/transforms-3/64b613e0df62e76f2757363c3276bf02/transformed/jetified-localization-1.2.10/AndroidManifest.xml:5:5-7:41
+MERGED from [com.akexorcist:localization:1.2.10] /Users/herisarwanto/.gradle/caches/transforms-3/64b613e0df62e76f2757363c3276bf02/transformed/jetified-localization-1.2.10/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/herisarwanto/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/herisarwanto/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/herisarwanto/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/herisarwanto/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.2] /Users/herisarwanto/.gradle/caches/transforms-3/0fd9680c4b02ea7c636999ccd7779925/transformed/jetified-activity-ktx-1.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.2] /Users/herisarwanto/.gradle/caches/transforms-3/0fd9680c4b02ea7c636999ccd7779925/transformed/jetified-activity-ktx-1.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/herisarwanto/.gradle/caches/transforms-3/54c447246e1dfdd55ce046ad6c0e747a/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/herisarwanto/.gradle/caches/transforms-3/54c447246e1dfdd55ce046ad6c0e747a/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/herisarwanto/.gradle/caches/transforms-3/81241baf1724590ca8f723ee0686eeee/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/herisarwanto/.gradle/caches/transforms-3/81241baf1724590ca8f723ee0686eeee/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/2adb8613a2763c41834310934f5f5283/transformed/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/2adb8613a2763c41834310934f5f5283/transformed/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/ed2c0e334ad33f0bd61711ae1ae5c864/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/ed2c0e334ad33f0bd61711ae1ae5c864/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.rambler-digital-solutions:swipe-layout-android:1.0.17] /Users/herisarwanto/.gradle/caches/transforms-3/ae5ecc6ee11c1cab59346fb11653c394/transformed/jetified-swipe-layout-android-1.0.17/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.rambler-digital-solutions:swipe-layout-android:1.0.17] /Users/herisarwanto/.gradle/caches/transforms-3/ae5ecc6ee11c1cab59346fb11653c394/transformed/jetified-swipe-layout-android-1.0.17/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/4107427a8bc3818a71bd94c66907d3a7/transformed/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/4107427a8bc3818a71bd94c66907d3a7/transformed/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.stfalcon-studio:SmsVerifyCatcher:0.3.3] /Users/herisarwanto/.gradle/caches/transforms-3/ea9db74d1382c84adb8d4b29ff1ba8d7/transformed/jetified-SmsVerifyCatcher-0.3.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.stfalcon-studio:SmsVerifyCatcher:0.3.3] /Users/herisarwanto/.gradle/caches/transforms-3/ea9db74d1382c84adb8d4b29ff1ba8d7/transformed/jetified-SmsVerifyCatcher-0.3.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.midtrans:corekit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/b9d6eb856930d0b96e2147ef88a606b5/transformed/jetified-corekit-1.30.1-SANDBOX/AndroidManifest.xml:7:5-9:41
+MERGED from [com.midtrans:corekit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/b9d6eb856930d0b96e2147ef88a606b5/transformed/jetified-corekit-1.30.1-SANDBOX/AndroidManifest.xml:7:5-9:41
+MERGED from [com.midtrans:analytics:1.7.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/da9a56352b25130b81182bfe478a5f5b/transformed/jetified-analytics-1.7.1-SANDBOX/AndroidManifest.xml:7:5-9:41
+MERGED from [com.midtrans:analytics:1.7.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/da9a56352b25130b81182bfe478a5f5b/transformed/jetified-analytics-1.7.1-SANDBOX/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/herisarwanto/.gradle/caches/transforms-3/e937b68345cad7d61818d312b6b4c7ca/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/herisarwanto/.gradle/caches/transforms-3/e937b68345cad7d61818d312b6b4c7ca/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:19:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:19:5-43
+MERGED from [com.koushikdutta.ion:ion:3.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/2a9f3d69c803dcc456e4d45d83f102fc/transformed/jetified-ion-3.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.ion:ion:3.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/2a9f3d69c803dcc456e4d45d83f102fc/transformed/jetified-ion-3.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/c8dcdcd915bff317c1516d06479658aa/transformed/jetified-play-services-auth-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/c8dcdcd915bff317c1516d06479658aa/transformed/jetified-play-services-auth-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/ba0cbcfcb8502d56da5e2a9ebd4ea11e/transformed/jetified-play-services-auth-api-phone-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/ba0cbcfcb8502d56da5e2a9ebd4ea11e/transformed/jetified-play-services-auth-api-phone-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/0c9ef400d92a8699298b6535a660b6bf/transformed/jetified-play-services-auth-base-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/0c9ef400d92a8699298b6535a660b6bf/transformed/jetified-play-services-auth-base-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/aa68769d5242c20041062ecc9e788594/transformed/jetified-play-services-base-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/aa68769d5242c20041062ecc9e788594/transformed/jetified-play-services-base-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/32da96ab7f28366f9849535eecee112e/transformed/jetified-play-services-tasks-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/32da96ab7f28366f9849535eecee112e/transformed/jetified-play-services-tasks-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/93ba26b96cfe274987ac5f373d2d66b4/transformed/jetified-play-services-basement-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/93ba26b96cfe274987ac5f373d2d66b4/transformed/jetified-play-services-basement-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/86a4def22459cc978552e378a210946f/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/86a4def22459cc978552e378a210946f/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/9354257804af8250f2ffb7c22e2892d5/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/9354257804af8250f2ffb7c22e2892d5/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/82b7a2b89a740946944868137cd3eaca/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/82b7a2b89a740946944868137cd3eaca/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/d96a4ec7573b0e4dad1ed46b8f79f81a/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/d96a4ec7573b0e4dad1ed46b8f79f81a/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/f156363817d5f71529d60b6716392550/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/f156363817d5f71529d60b6716392550/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/f3339edcec1cc450497e3c3878a1dd85/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/f3339edcec1cc450497e3c3878a1dd85/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/cf24d35e50a727536c7357721dc007c5/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/cf24d35e50a727536c7357721dc007c5/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/herisarwanto/.gradle/caches/transforms-3/5ebaeb5d364ce2c623be4262cc3b2f87/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/herisarwanto/.gradle/caches/transforms-3/5ebaeb5d364ce2c623be4262cc3b2f87/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/dae15ab66459c7c814cfe9578e1706f3/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/dae15ab66459c7c814cfe9578e1706f3/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/f057e7418cf3ed9a7aa575bdc69ad668/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/f057e7418cf3ed9a7aa575bdc69ad668/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/bfc8f4aa92cad5562cb8f1e119c503a2/transformed/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/bfc8f4aa92cad5562cb8f1e119c503a2/transformed/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/658c795313ef4882e96b91cbdc33f336/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/658c795313ef4882e96b91cbdc33f336/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/49141d5d7dd82f046f7046796052faa1/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/49141d5d7dd82f046f7046796052faa1/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/f4c2d181f9683c57f8970b9ce7785060/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/f4c2d181f9683c57f8970b9ce7785060/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/f562cbc756445f17cad7fd8f06b07dbc/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/f562cbc756445f17cad7fd8f06b07dbc/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/3943378554826a83b044df13cc6da74b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/3943378554826a83b044df13cc6da74b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/8f7c646a86cbd44aa9d36d74617587f4/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/8f7c646a86cbd44aa9d36d74617587f4/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/46bd764129354855da9f10ec99ac6ddc/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/46bd764129354855da9f10ec99ac6ddc/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.2] /Users/herisarwanto/.gradle/caches/transforms-3/34167a4684e35a1468bcac1bfa79cbfe/transformed/jetified-activity-1.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.2] /Users/herisarwanto/.gradle/caches/transforms-3/34167a4684e35a1468bcac1bfa79cbfe/transformed/jetified-activity-1.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/herisarwanto/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/herisarwanto/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/herisarwanto/.gradle/caches/transforms-3/76da31ad033c53187dd7271282d0f7d2/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/herisarwanto/.gradle/caches/transforms-3/76da31ad033c53187dd7271282d0f7d2/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/herisarwanto/.gradle/caches/transforms-3/a0d949cd6e8ccd90d0020a6be387db55/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/herisarwanto/.gradle/caches/transforms-3/a0d949cd6e8ccd90d0020a6be387db55/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/445f1a6c7ed90c8b1d8b0054874eb819/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/445f1a6c7ed90c8b1d8b0054874eb819/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/7f4e81502f72dd837dc1e0ddcbb11c26/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/7f4e81502f72dd837dc1e0ddcbb11c26/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/herisarwanto/.gradle/caches/transforms-3/72f1f1fbbbcadf7a4d8c002a04918740/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/herisarwanto/.gradle/caches/transforms-3/72f1f1fbbbcadf7a4d8c002a04918740/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/5b75d2e6479f13c5aed7d8001da507c0/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/5b75d2e6479f13c5aed7d8001da507c0/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/1f7b83d5c525c90d815c2843766b14c4/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/1f7b83d5c525c90d815c2843766b14c4/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/herisarwanto/.gradle/caches/transforms-3/5abdc06e026f2f7b9b89c25dcd7a6d7e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/herisarwanto/.gradle/caches/transforms-3/5abdc06e026f2f7b9b89c25dcd7a6d7e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/a5e62b79c1b370c2c963eefe3a076316/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/a5e62b79c1b370c2c963eefe3a076316/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/ff0a69a6d808ca01fb8a7748b87b9733/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/ff0a69a6d808ca01fb8a7748b87b9733/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/85267578750371d10730a0f08070bc44/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/85267578750371d10730a0f08070bc44/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/0f69d47ade4236199adb81e111e4f92e/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/0f69d47ade4236199adb81e111e4f92e/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/0ba9c48dd5ff84ca64a6f8c4dc29ae01/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/herisarwanto/.gradle/caches/transforms-3/0ba9c48dd5ff84ca64a6f8c4dc29ae01/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/herisarwanto/.gradle/caches/transforms-3/114d02d556db7f0c7636ae1c78b77699/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/herisarwanto/.gradle/caches/transforms-3/114d02d556db7f0c7636ae1c78b77699/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/56ea02d67edbb15aea212f39ccb5db78/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/56ea02d67edbb15aea212f39ccb5db78/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [me.saket:better-link-movement-method:2.2.0] /Users/herisarwanto/.gradle/caches/transforms-3/bdd46394318e67bf66c612acf2c8566e/transformed/jetified-better-link-movement-method-2.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [me.saket:better-link-movement-method:2.2.0] /Users/herisarwanto/.gradle/caches/transforms-3/bdd46394318e67bf66c612acf2c8566e/transformed/jetified-better-link-movement-method-2.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.midtrans:issuetracker:1.12.0-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/2367595826684570be803fd7a93e6b92/transformed/jetified-issuetracker-1.12.0-SANDBOX/AndroidManifest.xml:7:5-9:41
+MERGED from [com.midtrans:issuetracker:1.12.0-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/2367595826684570be803fd7a93e6b92/transformed/jetified-issuetracker-1.12.0-SANDBOX/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.koushikdutta.async:androidasync:3.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/42b681f5d57577eb4d9e2049df509a2c/transformed/jetified-androidasync-3.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.async:androidasync:3.1.0] /Users/herisarwanto/.gradle/caches/transforms-3/42b681f5d57577eb4d9e2049df509a2c/transformed/jetified-androidasync-3.1.0/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/debug/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:11:9-112
+	android:targetSdkVersion
+		INJECTED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/herisarwanto/AndroidStudioProjects/FlutterApps/TestApp/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:13:5-79
+MERGED from [com.midtrans:corekit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/b9d6eb856930d0b96e2147ef88a606b5/transformed/jetified-corekit-1.30.1-SANDBOX/AndroidManifest.xml:11:5-79
+MERGED from [com.midtrans:corekit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/b9d6eb856930d0b96e2147ef88a606b5/transformed/jetified-corekit-1.30.1-SANDBOX/AndroidManifest.xml:11:5-79
+MERGED from [com.midtrans:analytics:1.7.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/da9a56352b25130b81182bfe478a5f5b/transformed/jetified-analytics-1.7.1-SANDBOX/AndroidManifest.xml:11:5-79
+MERGED from [com.midtrans:analytics:1.7.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/da9a56352b25130b81182bfe478a5f5b/transformed/jetified-analytics-1.7.1-SANDBOX/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:14:5-75
+MERGED from [com.midtrans:analytics:1.7.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/da9a56352b25130b81182bfe478a5f5b/transformed/jetified-analytics-1.7.1-SANDBOX/AndroidManifest.xml:13:5-75
+MERGED from [com.midtrans:analytics:1.7.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/da9a56352b25130b81182bfe478a5f5b/transformed/jetified-analytics-1.7.1-SANDBOX/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:14:22-72
+queries
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:16:5-18:15
+package#com.gojek.app
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:17:9-49
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:17:18-46
+activity#com.midtrans.sdk.uikit.activities.UserDetailsActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:24:9-27:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:26:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:27:13-64
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:25:13-81
+activity#com.midtrans.sdk.uikit.activities.PaymentMethodsActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:28:9-31:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:31:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:30:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:29:13-84
+activity#com.midtrans.sdk.uikit.views.mandiri_clickpay.MandiriClickPayActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:32:9-36:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:35:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:36:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:34:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:33:13-97
+activity#com.midtrans.sdk.uikit.views.bri_epay.BriEpayPaymentActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:37:9-40:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:40:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:39:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:38:13-88
+activity#com.midtrans.sdk.uikit.views.cimb_click.CimbClickPaymentActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:41:9-44:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:44:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:43:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:42:13-92
+activity#com.midtrans.sdk.uikit.views.mandiri_ecash.MandiriEcashPaymentActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:45:9-48:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:48:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:47:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:46:13-98
+activity#com.midtrans.sdk.uikit.views.indosat_dompetku.IndosatDompetkuPaymentActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:49:9-53:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:52:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:53:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:51:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:50:13-104
+activity#com.midtrans.sdk.uikit.views.indomaret.payment.IndomaretPaymentActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:54:9-57:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:57:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:56:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:55:13-99
+activity#com.midtrans.sdk.uikit.views.indomaret.status.IndomaretStatusActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:58:9-61:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:61:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:60:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:59:13-97
+activity#com.midtrans.sdk.uikit.views.telkomsel_cash.TelkomselCashPaymentActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:62:9-66:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:65:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:66:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:64:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:63:13-100
+activity#com.midtrans.sdk.uikit.views.xl_tunai.payment.XlTunaiPaymentActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:67:9-70:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:70:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:69:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:68:13-96
+activity#com.midtrans.sdk.uikit.views.xl_tunai.status.XlTunaiStatusActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:71:9-74:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:74:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:73:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:72:13-94
+activity#com.midtrans.sdk.uikit.views.xl_tunai.XlTunaiInstructionActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:75:9-78:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:78:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:77:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:76:13-92
+activity#com.midtrans.sdk.uikit.views.kioson.payment.KiosonPaymentActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:79:9-82:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:82:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:81:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:80:13-93
+activity#com.midtrans.sdk.uikit.views.kioson.status.KiosonStatusActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:83:9-86:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:86:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:85:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:84:13-91
+activity#com.midtrans.sdk.uikit.views.gci.GciPaymentActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:87:9-91:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:90:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:91:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:89:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:88:13-79
+activity#com.midtrans.sdk.uikit.views.creditcard.details.CreditCardDetailsActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:92:9-96:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:95:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:96:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:94:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:93:13-101
+activity#com.midtrans.sdk.uikit.views.status.PaymentStatusActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:97:9-100:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:100:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:99:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:98:13-85
+activity#com.midtrans.sdk.uikit.views.creditcard.saved.SavedCreditCardActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:101:9-104:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:104:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:103:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:102:13-97
+activity#com.midtrans.sdk.uikit.views.creditcard.bankpoints.BankPointsActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:105:9-109:76
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:108:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:109:13-73
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:107:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:106:13-97
+activity#com.midtrans.sdk.uikit.views.banktransfer.list.BankTransferListActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:110:9-113:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:113:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:112:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:111:13-99
+activity#com.midtrans.sdk.uikit.views.banktransfer.payment.BankTransferPaymentActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:114:9-118:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:117:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:118:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:116:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:115:13-105
+activity#com.midtrans.sdk.uikit.views.banktransfer.status.VaPaymentStatusActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:119:9-122:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:122:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:121:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:120:13-100
+activity#com.midtrans.sdk.uikit.views.banktransfer.status.VaOtherBankPaymentStatusActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:123:9-126:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:126:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:125:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:124:13-109
+activity#com.midtrans.sdk.uikit.views.banktransfer.status.MandiriBillStatusActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:127:9-130:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:130:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:129:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:128:13-102
+activity#com.midtrans.sdk.uikit.views.creditcard.register.CardRegistrationActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:131:9-135:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:134:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:135:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:133:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:132:13-101
+activity#com.midtrans.sdk.uikit.views.gopay.payment.GoPayPaymentActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:136:9-139:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:139:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:138:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:137:13-91
+activity#com.midtrans.sdk.uikit.views.shopeepay.payment.ShopeePayPaymentActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:140:9-143:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:143:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:142:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:141:13-99
+activity#com.midtrans.sdk.uikit.views.gopay.status.GoPayStatusActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:144:9-147:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:147:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:146:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:145:13-89
+activity#com.midtrans.sdk.uikit.views.shopeepay.status.ShopeePayStatusActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:148:9-151:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:151:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:150:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:149:13-97
+activity#com.midtrans.sdk.uikit.views.danamon_online.DanamonOnlineActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:152:9-155:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:155:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:154:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:153:13-93
+activity#com.midtrans.sdk.uikit.views.bca_klikbca.payment.KlikBcaPaymentActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:156:9-160:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:159:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:160:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:158:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:157:13-99
+activity#com.midtrans.sdk.uikit.views.bca_klikbca.status.KlikBcaStatusActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:161:9-164:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:164:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:163:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:162:13-97
+activity#com.midtrans.sdk.uikit.views.bca_klikpay.BcaKlikPayPaymentActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:165:9-168:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:168:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:167:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:166:13-94
+activity#com.midtrans.sdk.uikit.views.alfamart.payment.AlfamartPaymentActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:169:9-172:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:172:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:171:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:170:13-97
+activity#com.midtrans.sdk.uikit.views.alfamart.status.AlfamartStatusActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:173:9-176:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:176:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:175:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:174:13-95
+activity#com.midtrans.sdk.uikit.views.webview.WebViewPaymentActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:177:9-180:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:180:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:179:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:178:13-87
+activity#com.midtrans.sdk.uikit.views.creditcard.tnc.TermsAndConditionsActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:181:9-184:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:184:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:183:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:182:13-98
+activity#com.midtrans.sdk.uikit.views.akulaku.AkulakuActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:185:9-188:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:188:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:187:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:186:13-80
+activity#com.midtrans.sdk.uikit.views.uob.UobListActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:189:9-85
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:189:19-82
+activity#com.midtrans.sdk.uikit.views.uob.app.UobAppPaymentActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:190:9-95
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:190:19-92
+activity#com.midtrans.sdk.uikit.views.uob.web.UobWebPaymentActivity
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:191:9-95
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:191:19-92
+service#com.midtrans.raygun.RaygunPostService
+ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:193:9-196:52
+	android:process
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:196:13-49
+	android:exported
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:195:13-37
+	android:name
+		ADDED from [com.midtrans:uikit:1.30.1-SANDBOX] /Users/herisarwanto/.gradle/caches/transforms-3/61aa88e09ef0cfce997ecbc1c7ce9b51/transformed/jetified-uikit-1.30.1-SANDBOX/AndroidManifest.xml:194:13-65
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/herisarwanto/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/herisarwanto/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/herisarwanto/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/herisarwanto/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/herisarwanto/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/herisarwanto/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+uses-permission#android.permission.CAMERA
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:25:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:33:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:42:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:46:9-52:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:49:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:48:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/herisarwanto/.gradle/caches/transforms-3/a2291cc0813c9f819ee2557996877406/transformed/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:47:13-74
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/c8dcdcd915bff317c1516d06479658aa/transformed/jetified-play-services-auth-15.0.1/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/c8dcdcd915bff317c1516d06479658aa/transformed/jetified-play-services-auth-15.0.1/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/c8dcdcd915bff317c1516d06479658aa/transformed/jetified-play-services-auth-15.0.1/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/c8dcdcd915bff317c1516d06479658aa/transformed/jetified-play-services-auth-15.0.1/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/c8dcdcd915bff317c1516d06479658aa/transformed/jetified-play-services-auth-15.0.1/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/c8dcdcd915bff317c1516d06479658aa/transformed/jetified-play-services-auth-15.0.1/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/c8dcdcd915bff317c1516d06479658aa/transformed/jetified-play-services-auth-15.0.1/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/c8dcdcd915bff317c1516d06479658aa/transformed/jetified-play-services-auth-15.0.1/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/c8dcdcd915bff317c1516d06479658aa/transformed/jetified-play-services-auth-15.0.1/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/aa68769d5242c20041062ecc9e788594/transformed/jetified-play-services-base-15.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/aa68769d5242c20041062ecc9e788594/transformed/jetified-play-services-base-15.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/aa68769d5242c20041062ecc9e788594/transformed/jetified-play-services-base-15.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/aa68769d5242c20041062ecc9e788594/transformed/jetified-play-services-base-15.0.1/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/93ba26b96cfe274987ac5f373d2d66b4/transformed/jetified-play-services-basement-15.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/93ba26b96cfe274987ac5f373d2d66b4/transformed/jetified-play-services-basement-15.0.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/herisarwanto/.gradle/caches/transforms-3/93ba26b96cfe274987ac5f373d2d66b4/transformed/jetified-play-services-basement-15.0.1/AndroidManifest.xml:24:13-58
