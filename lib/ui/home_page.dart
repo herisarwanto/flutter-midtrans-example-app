@@ -60,9 +60,27 @@ class HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      theme: ThemeData(
+        primaryColor: Colors.blue,
+        appBarTheme: const AppBarTheme(
+          backgroundColor: Colors.blue,
+          titleTextStyle: TextStyle(
+            color: Colors.white,
+          ),
+        ),
+        elevatedButtonTheme: ElevatedButtonThemeData(
+          style: ButtonStyle(
+            backgroundColor: MaterialStateProperty.all<Color>(Colors.blue),
+            foregroundColor: MaterialStateProperty.all<Color>(Colors.white),
+          ),
+        ),
+      ),
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Payment Gateway Example App'),
+          title: const Text(
+            'Payment Gateway Example App',
+            style: TextStyle(color: Colors.white, fontSize: 18),
+          ),
         ),
         body: Center(
           child: ElevatedButton(
