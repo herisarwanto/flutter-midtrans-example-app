@@ -1,4 +1,4 @@
-# Midtrans Payment Gateway Integration with Flutter - Example APP
+# Midtrans Payment Gateway with Flutter - Example APP
 
 This repository showcases the implementation of the Midtrans payment gateway in a Flutter application.
 
