@@ -1,16 +1,29 @@
-# flutter_midtrans_example
+# Midtrans Payment Gateway Integration with Flutter - Example APP
 
-A new Flutter project.
+This repository showcases the implementation of the Midtrans payment gateway in a Flutter application.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+1. **Configuration Setup:**
+   - Edit the `.env` file and insert your Midtrans client key.
+     ```
+     MIDTRANS_CLIENT_KEY=your_client_key_here
+     ```
 
-A few resources to get you started if this is your first Flutter project:
+2. **Install Dependencies:**
+   - Run the following command to get dependencies:
+     ```
+     flutter pub get
+     ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. **Running the Project:**
+   - Launch the project using Flutter:
+     ```
+     flutter run
+     ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Additional Notes
+
+- Ensure your Midtrans client key is accurately set in the `.env` file.
+- For detailed API documentation, refer to the [Midtrans API documentation](https://docs.midtrans.com/).
+
