@@ -26,9 +26,9 @@ class HomePageState extends State<HomePage> {
         clientKey: dot_env.dotenv.env['MIDTRANS_CLIENT_KEY'] ?? "",
         merchantBaseUrl: "",
         colorTheme: ColorTheme(
-          colorPrimary: Theme.of(context).colorScheme.secondary,
-          colorPrimaryDark: Theme.of(context).colorScheme.secondary,
-          colorSecondary: Theme.of(context).colorScheme.secondary,
+          colorPrimary: Colors.blue,
+          colorPrimaryDark: Colors.blue,
+          colorSecondary: Colors.blue,
         ),
       ),
     );
