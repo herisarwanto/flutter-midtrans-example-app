@@ -1,4 +1,4 @@
-# Midtrans Payment Gateway with Flutter - Example APP
+# Midtrans Payment Gateway with Flutter - Example
 
 This repository showcases the implementation of the Midtrans payment gateway in a Flutter application.
 
@@ -26,4 +26,5 @@ This repository showcases the implementation of the Midtrans payment gateway in 
 
 - Ensure your Midtrans client key is accurately set in the `.env` file.
 - For detailed API documentation, refer to the [Midtrans API documentation](https://docs.midtrans.com/).
+- To run this application you must also install this application as its backend API: [nextjs-midtrans-api-example](https://github.com/herisarwanto/nextjs-midtrans-api-example/tree/main).
 
